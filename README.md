@@ -46,7 +46,7 @@ Aspiring SOC Analyst with practical experience in Linux system security, permiss
 
 -----------------------------------------------------------------------------------------
 
-## Security Mindset
+### Security Mindset
 
 - Apply **least privilege** to reduce attack surface
 - Protect logs as **sensitive security assets**
