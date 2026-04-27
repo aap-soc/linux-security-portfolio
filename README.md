@@ -28,7 +28,7 @@ Aspiring SOC Analyst with practical experience in Linux system security, permiss
 
 ### Projects
 
-## [Project 1: Linux Access Control & Data Protection](project1-access-control.md)
+### [Project 1: Linux Access Control & Data Protection](project1-access-control.md)
 
 - Implemented secure file permissions to prevent unauthorized access
 - Applied least privilege using `chmod`, `chown` and `umask`
@@ -37,7 +37,7 @@ Aspiring SOC Analyst with practical experience in Linux system security, permiss
 
 -----------------------------------------------------------------------------------------
 
-## [Project 2: Secure Log Handling & SOC Workflow](project2-log-handling.md)
+### [Project 2: Secure Log Handling & SOC Workflow](project2-log-handling.md)
 
 - Built structured Linux environment for log management
 - Performed log analysis using `grep`
