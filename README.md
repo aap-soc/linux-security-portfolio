@@ -1,9 +1,9 @@
-### linux-security-portfolio
+# linux-security-portfolio
 SOC Analyst portfolio - Linux security and log handling
 
 ##  Linux Security Operations Portfolio
 
-# Professional Summary
+### Professional Summary
 
 Aspiring SOC Analyst with practical experience in Linux system security, permissions managment, access control and log handling. Focused on applying security best practices such as least privilege, access control and secure file handling in multi-user environments.
 
