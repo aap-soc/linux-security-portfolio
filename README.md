@@ -31,7 +31,7 @@ Aspiring SOC Analyst with practical experience in Linux system security, permiss
 ## [Project 1: Linux Access Control & Data Protection](project1-access-control.md)
 
 - Implemented secure file permissions to prevent unauthorized access
-- Applied least privilege using 'chmod', `chown`, and 'umask'
+- Applied least privilege using `chmod`, `chown` and `umask`
 - Reduced risk of data exposure in multi-user systems
 - Simulated protection of sensitive files (logs, configs, payroll data)
 
