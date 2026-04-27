@@ -5,7 +5,7 @@ SOC Analyst portfolio - Linux security and log handling
 
 # Professional Summary
 
-Aspiring SOC Analyst with practical experience in Linux system security, permissions managment, access control and log handling.Focused on applying security best practices such as least privilege, access control, and secure file handling in multi-user environments.
+Aspiring SOC Analyst with practical experience in Linux system security, permissions managment, access control and log handling. Focused on applying security best practices such as least privilege, access control and secure file handling in multi-user environments.
 
 -----------------------------------------------------------------------------------------
  ### Technical Skills
@@ -17,7 +17,7 @@ Aspiring SOC Analyst with practical experience in Linux system security, permiss
 **Security & Operations**
 
 - Access Control and File Permissions (`chmod`, `chown`, `umask`)
-- Log Analysis amd File Monitoring
+- Log Analysis and File Monitoring
 - Secure File Handling
 
 **Command-Line**
@@ -40,8 +40,8 @@ Aspiring SOC Analyst with practical experience in Linux system security, permiss
 ## [Project 2: Secure Log Handling & SOC Workflow](project2-log-handling.md)
 
 - Built structured Linux environment for log management
-- Performed log analysis using 'grep'
-- Secured logs using permission controls (chmod 640)
+- Performed log analysis using `grep`
+- Secured logs using permission controls (`chmod 640`)
 - Simulated SOC investigation workflows
 
 -----------------------------------------------------------------------------------------
@@ -58,8 +58,8 @@ Aspiring SOC Analyst with practical experience in Linux system security, permiss
 
 ### Currently Learning
 
-- SIEM tools (e.g., Splunk)
-- Threat detection & log correlation
+- SIEM tools (Splunk)
+- Threat detection and log correlation
 - Incident response fundamentals
 
 -----------------------------------------------------------------------------------------
