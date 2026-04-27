@@ -22,7 +22,7 @@ Aspiring SOC Analyst with practical experience in Linux system security, permiss
 
 **Command-Line**
 
- - 'ls', 'cp', 'mv', 'rm', 'grep', 'less', 'wc'
+ - `ls`, `cp`, `mv`, `rm`, `grep`, `less`, `wc`
 
 -----------------------------------------------------------------------------------------
 
