@@ -51,7 +51,8 @@ sudo chown testuser secure.txt
 * Transferred file ownership using `chown`
 * Demonstrates controlled delegation of file access
 
-📸 *Add screenshot here (ownership change)*
+📸 <img width="563" height="46" alt="image" src="https://github.com/user-attachments/assets/77e8a4c4-08c9-4f5d-b70e-a1b399313530" />
+ (ownership change)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
