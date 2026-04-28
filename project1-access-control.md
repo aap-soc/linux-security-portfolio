@@ -51,8 +51,7 @@ sudo chown testuser secure.txt
 * Transferred file ownership using `chown`
 * Demonstrates controlled delegation of file access
 
-📸 <img width="563" height="46" alt="image" src="https://github.com/user-attachments/assets/77e8a4c4-08c9-4f5d-b70e-a1b399313530" />
- (ownership change)*
+📸 <img width="563" height="46" alt="image" src="https://github.com/user-attachments/assets/77e8a4c4-08c9-4f5d-b70e-a1b399313530" /> (ownership change)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -69,7 +68,7 @@ chmod +x hello.sh
 * Created a script and made it executable
 * Demonstrates controlled execution permissions
 
-📸 * (script execution)*
+📸 *<img width="614" height="141" alt="image" src="https://github.com/user-attachments/assets/48500dac-6918-47fa-8901-c37782dd7cb8" /> (script execution)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -87,7 +86,7 @@ ls -l
 * No access for others
 * Suitable for controlled team collaboration
 
-📸 * (directory permissions)*
+ * <img width="569" height="157" alt="image" src="https://github.com/user-attachments/assets/65005ddd-62b8-4aaf-a5f6-07e53c9941ea" /> (directory permissions)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -103,8 +102,7 @@ sudo chown :developers secure.txt
 * Assigned file to a group
 * Enables controlled group-based access
 
-📸 *<img width="651" height="173" alt="image" src="https://github.com/user-attachments/assets/89cd8a88-404b-4f38-a85f-78c894f1316a" />
-(group ownership)*
+📸 *<img width="651" height="173" alt="image" src="https://github.com/user-attachments/assets/89cd8a88-404b-4f38-a85f-78c894f1316a" /> (group ownership)*
 
 --------------------------------------------------------------------------------------------------------------------------
 ### 6. Removing Execute Permission
@@ -215,7 +213,7 @@ If permissions are too open:
 
 --------------------------------------------------------------------------------------------------------------------------
 
-##  Pra Applications
+##  Real Life Application
 
 * Securing authentication and system logs
 * Protecting sensitive business data (e.g., payroll)
