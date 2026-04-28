@@ -9,7 +9,7 @@ This project demonstrates how Linux file permissions are used to secure sensitiv
 ##  Objectives
 
 * Enforce least privilege access control
-* Prevent unauthorized access to sensitive files
+* Prevent unauthorised access to sensitive files
 * Manage user and group ownership securely
 * Apply secure default permission settings
 
