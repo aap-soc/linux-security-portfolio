@@ -33,8 +33,8 @@ ls -l
 * Removed all permissions for group and others
 * Verified permissions using `ls -l` → `-rw-------`
 
-📸 <img width="647" height="150" alt="image" src="https://github.com/user-attachments/assets/ff4ec9f0-e677-4284-8648-a89b0b7eae62" />
- (secure file permissions)*
+
+ ![Secure File Permissions](screenshots/permissions.png)  <img width="390" height="90" alt="image" src="https://github.com/user-attachments/assets/3313e09b-a546-4f4e-83cf-c71431161bb1" />
 
 -----------------------------------------------------------------------------------------------------------------------------
 
