@@ -1,4 +1,4 @@
-#  Project 1: Linux Access Control & File Permission Security
+<img width="647" height="150" alt="image" src="https://github.com/user-attachments/assets/ee45ab4f-3487-4111-af23-2416f000667b" />#  Project 1: Linux Access Control & File Permission Security
 
 ##  Overview
 
@@ -33,7 +33,8 @@ ls -l
 * Removed all permissions for group and others
 * Verified permissions using `ls -l` → `-rw-------`
 
-📸 *Add screenshot here (secure file permissions)*
+📸 <img width="647" height="150" alt="image" src="https://github.com/user-attachments/assets/ff4ec9f0-e677-4284-8648-a89b0b7eae62" />
+ (secure file permissions)*
 
 -----------------------------------------------------------------------------------------------------------------------------
 
