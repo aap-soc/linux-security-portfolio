@@ -69,7 +69,7 @@ chmod +x hello.sh
 * Created a script and made it executable
 * Demonstrates controlled execution permissions
 
-📸 *Add screenshot here (script execution)*
+📸 * (script execution)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ ls -l
 * No access for others
 * Suitable for controlled team collaboration
 
-📸 *Add screenshot here (directory permissions)*
+📸 * (directory permissions)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -103,7 +103,8 @@ sudo chown :developers secure.txt
 * Assigned file to a group
 * Enables controlled group-based access
 
-📸 *Add screenshot here (group ownership)*
+📸 *<img width="651" height="173" alt="image" src="https://github.com/user-attachments/assets/89cd8a88-404b-4f38-a85f-78c894f1316a" />
+(group ownership)*
 
 --------------------------------------------------------------------------------------------------------------------------
 ### 6. Removing Execute Permission
