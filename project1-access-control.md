@@ -1,4 +1,4 @@
-<img width="647" height="150" alt="image" src="https://github.com/user-attachments/assets/ee45ab4f-3487-4111-af23-2416f000667b" />#  Project 1: Linux Access Control & File Permission Security
+#  Project 1: Linux Access Control & File Permission Security
 
 ##  Overview
 
