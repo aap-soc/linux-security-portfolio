@@ -51,7 +51,7 @@ sudo chown testuser secure.txt
 * Transferred file ownership using `chown`
 * Demonstrates controlled delegation of file access
 
-📸 <img width="563" height="46" alt="image" src="https://github.com/user-attachments/assets/77e8a4c4-08c9-4f5d-b70e-a1b399313530" /> (ownership change)*
+ <img width="563" height="46" alt="image" src="https://github.com/user-attachments/assets/77e8a4c4-08c9-4f5d-b70e-a1b399313530" /> (ownership change)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ chmod +x hello.sh
 * Created a script and made it executable
 * Demonstrates controlled execution permissions
 
-📸 *<img width="614" height="141" alt="image" src="https://github.com/user-attachments/assets/48500dac-6918-47fa-8901-c37782dd7cb8" /> (script execution)*
+ *<img width="614" height="141" alt="image" src="https://github.com/user-attachments/assets/48500dac-6918-47fa-8901-c37782dd7cb8" /> (script execution)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ sudo chown :developers secure.txt
 * Assigned file to a group
 * Enables controlled group-based access
 
-📸 *<img width="651" height="173" alt="image" src="https://github.com/user-attachments/assets/89cd8a88-404b-4f38-a85f-78c894f1316a" /> (group ownership)*
+ *<img width="651" height="173" alt="image" src="https://github.com/user-attachments/assets/89cd8a88-404b-4f38-a85f-78c894f1316a" /> (group ownership)*
 
 --------------------------------------------------------------------------------------------------------------------------
 ### 6. Removing Execute Permission
@@ -117,7 +117,7 @@ ls -l
 * Removed execution rights
 * Prevents unauthorized script execution
 
-📸 *Add screenshot here (permission removal)*
+ *<img width="615" height="141" alt="image" src="https://github.com/user-attachments/assets/0a855b60-8b59-4575-9da3-69f8c57542bf" /> (permission removal)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ chmod 444 secure.txt
 * File becomes read-only for all users
 * Prevents modification or deletion
 
-📸 *Add screenshot here (read-only file)*
+ *<img width="482" height="114" alt="image" src="https://github.com/user-attachments/assets/7f9cdaa3-33f3-45aa-9b4e-31961e636b84" /> (read-only file)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ ls -l testfile.txt
 * Configured secure default permissions
 * Ensures new files are not accessible to unauthorized users
 
-📸 *Add screenshot here (umask result)*
+ * <img width="783" height="121" alt="image" src="https://github.com/user-attachments/assets/97eaf9ab-3dc0-421a-a6a6-661f71f0e178" /> (umask result)*
 
 --------------------------------------------------------------------------------------------------------------------------
 ### 9. Using Symbolic Permission Notation
@@ -166,7 +166,7 @@ ls -l file1.txt
 * Applied granular permission control
 * Equivalent to `chmod 640`
 
-📸 *Add screenshot here (symbolic permissions)*
+ * <img width="774" height="112" alt="image" src="https://github.com/user-attachments/assets/28ba1748-c55b-493b-bc8e-c22b0e22bc02" /> (symbolic permissions)*
 
 --------------------------------------------------------------------------------------------------------------------------
 ## 🔐 Security Analysis
