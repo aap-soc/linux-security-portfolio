@@ -169,7 +169,7 @@ ls -l file1.txt
  * <img width="774" height="112" alt="image" src="https://github.com/user-attachments/assets/28ba1748-c55b-493b-bc8e-c22b0e22bc02" /> (symbolic permissions)*
 
 --------------------------------------------------------------------------------------------------------------------------
-## 🔐 Security Analysis
+##  Security Analysis
 
 ### Principle of Least Privilege (PoLP)
 
@@ -186,7 +186,7 @@ Restricting file access limits what an attacker can view if a system is compromi
 
 --------------------------------------------------------------------------------------------------------------------------
 
-## 🚨 SOC Scenario: Unauthorized File Access
+##  SOC Scenario: Unauthorised File Access
 
 ### Scenario
 
